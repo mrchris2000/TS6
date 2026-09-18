@@ -13,12 +13,12 @@
     {
       "role": "anonymous",
       "outcome": "navigation_failed",
-      "detail": "Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://10.134.60.169.nip.io/\nCall log:\n\u001b[2m  - navigating to \"https://10.134.60.169.nip.io/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "detail": "Error: page.goto: net::ERR_BLOCKED_BY_CLIENT at https://10.134.60.169.nip.io/\nCall log:\n\u001b[2m  - navigating to \"https://10.134.60.169.nip.io/\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "role": "code",
       "outcome": "authentication_failed",
-      "detail": "Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://10.134.60.169.nip.io/\nCall log:\n\u001b[2m  - navigating to \"https://10.134.60.169.nip.io/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "detail": "Error: page.goto: net::ERR_BLOCKED_BY_CLIENT at https://10.134.60.169.nip.io/\nCall log:\n\u001b[2m  - navigating to \"https://10.134.60.169.nip.io/\", waiting until \"domcontentloaded\"\u001b[22m\n"
     }
   ]
 }

@@ -11,11 +11,11 @@ Coverage is relative to discovered controls and configured limits, not a claim o
 
 ## Blockers
 
-- anonymous: navigation_failed — Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://10.134.60.169.nip.io/
+- anonymous: navigation_failed — Error: page.goto: net::ERR_BLOCKED_BY_CLIENT at https://10.134.60.169.nip.io/
 Call log:
 [2m  - navigating to "https://10.134.60.169.nip.io/", waiting until "domcontentloaded"[22m
 
-- code: authentication_failed — Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://10.134.60.169.nip.io/
+- code: authentication_failed — Error: page.goto: net::ERR_BLOCKED_BY_CLIENT at https://10.134.60.169.nip.io/
 Call log:
 [2m  - navigating to "https://10.134.60.169.nip.io/", waiting until "domcontentloaded"[22m
 
