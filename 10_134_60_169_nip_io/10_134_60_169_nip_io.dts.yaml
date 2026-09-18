@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://www.hcl-software.com/schema/devops/test/Suite/2026/09
+note: |
+  Generated test suite for https://10.134.60.169.nip.io
+  Crawl status: partial
+configuration:
+  vars:
+    APP_10_134_60_169_nip_io_URL: https://10.134.60.169.nip.io
+tests:

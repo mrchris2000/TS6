@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "modelId": "baad96fb-6c94-5ad9-a0be-4dbc4b12d43c",
+  "stateComponents": {},
+  "relationships": [],
+  "limitations": [
+    "Service components represent observed HTTP endpoints, not inferred internal services.",
+    "Internal databases and service dependencies require separately supplied evidence."
+  ]
+}
