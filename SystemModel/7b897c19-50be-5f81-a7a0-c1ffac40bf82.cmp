@@ -1,0 +1,6 @@
+{
+  "id": "7b897c19-50be-5f81-a7a0-c1ffac40bf82",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Test_ts/.devopsconfig/contents/devcontainers/devcontainer-java/.devcontainer/devcontainer.json",
+  "type": "service",
+  "relationships": {}
+}

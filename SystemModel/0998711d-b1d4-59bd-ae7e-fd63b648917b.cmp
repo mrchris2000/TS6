@@ -1,0 +1,20 @@
+{
+  "id": "0998711d-b1d4-59bd-ae7e-fd63b648917b",
+  "name": "Code - DevOps Loop [code]",
+  "type": "ui",
+  "parent": "63774a12-70eb-5ecd-a2fe-c4bb1975a580",
+  "relationships": {
+    "depends-on": [
+      "30bae556-17f0-5c82-a3e0-f1584f400eda",
+      "557409eb-bfa3-543d-adae-094b75df5a2c",
+      "57ed750c-a73e-54cb-adb9-697450a16f00",
+      "70e0ce0a-ef0f-5e39-ad66-7ba174ff7189",
+      "74d02bf6-259f-5dd3-addd-2e5584b6b145",
+      "8acd32f3-135e-5ac9-a01a-a90bcf9c50ba",
+      "aae04b6e-9489-563a-a552-22b6a9e86191",
+      "b5444176-8ad4-5910-abb2-414b67ceb522",
+      "c5dcb2c0-43db-59f1-ae16-ea58cc1196d4",
+      "d1445c70-50f4-5408-af7b-48e74ab7dcf4"
+    ]
+  }
+}

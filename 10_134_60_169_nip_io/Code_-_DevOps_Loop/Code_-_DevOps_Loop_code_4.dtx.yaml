@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=https://www.hcl-software.com/schema/devops/test/Script/2026/09
+note: "Generated test for Code - DevOps Loop (role: code)"
+configuration:
+  vars:
+    APP_10_134_60_169_nip_io_URL: https://10.134.60.169.nip.io
+    username: stuart@hcl.com
+    password: Gr33nhat!
+    Username: stuart@hcl.com
+    Password: Gr33nhat!
+steps:
+  - open:
+      note: Navigate to Code - DevOps Loop
+      url: '${APP_10_134_60_169_nip_io_URL}/code/devcontainerpage?devcontainer=Data+Science+%26+ML&ref=main&teamspace=Team1'
+  - with:
+      note: Code - DevOps Loop
+      steps:
+        - click:
+            shot: ../575e07074259b262358a7a31.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - label:
+                      - val: logoAlt
+        - click:
+            shot: ../575e07074259b262358a7a31.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Code home page
+        - click:
+            shot: ../575e07074259b262358a7a31.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Dev Container : Data Science & ML
+        - verify:
+            object: html.h1
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Code - DevOps Loop

@@ -1,0 +1,6 @@
+{
+  "id": "495e2f36-cb14-54e6-a5f0-55a6e6bc6922",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Trial/.devopsconfig/branches",
+  "type": "service",
+  "relationships": {}
+}

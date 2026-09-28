@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=https://www.hcl-software.com/schema/devops/test/Script/2026/09
+note: "Generated test for Code - DevOps Loop (role: code)"
+configuration:
+  vars:
+    APP_10_134_60_169_nip_io_URL: https://10.134.60.169.nip.io
+    username: stuart@hcl.com
+    password: Gr33nhat!
+    Username: stuart@hcl.com
+    Password: Gr33nhat!
+steps:
+  - open:
+      note: Navigate to Code - DevOps Loop
+      url: '${APP_10_134_60_169_nip_io_URL}/code/'
+  - with:
+      note: Code - DevOps Loop
+      steps:
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - label:
+                      - val: logoAlt
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Code home page
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: T
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Expand sidebar
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.select
+            identifiers:
+              - properties:
+                  - label:
+                      - val: main
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.tab
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Running Dev Containers
+        - click:
+            shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
+            object: html.tab
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Other Dev Containers
+        - verify:
+            object: html.h1
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Loop

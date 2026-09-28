@@ -1,0 +1,6 @@
+{
+  "id": "74d02bf6-259f-5dd3-addd-2e5584b6b145",
+  "name": "HTTP endpoint: POST https://10.134.60.169.nip.io/code/api/getRunningNonIdeContainers",
+  "type": "service",
+  "relationships": {}
+}

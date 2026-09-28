@@ -1,0 +1,6 @@
+{
+  "id": "526a11be-16e1-560a-ab1a-c28bb9536833",
+  "name": "HTTP endpoint: PUT https://10.134.60.169.nip.io/license/rest/license",
+  "type": "service",
+  "relationships": {}
+}

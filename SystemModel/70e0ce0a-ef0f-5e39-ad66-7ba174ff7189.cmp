@@ -1,0 +1,6 @@
+{
+  "id": "70e0ce0a-ef0f-5e39-ad66-7ba174ff7189",
+  "name": "HTTP endpoint: POST https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/token",
+  "type": "service",
+  "relationships": {}
+}

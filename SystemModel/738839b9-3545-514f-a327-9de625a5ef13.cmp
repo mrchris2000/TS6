@@ -1,0 +1,6 @@
+{
+  "id": "738839b9-3545-514f-a327-9de625a5ef13",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Team1/.devopsconfig/contents/devcontainers/devcontainer-datascience/.devcontainer",
+  "type": "service",
+  "relationships": {}
+}

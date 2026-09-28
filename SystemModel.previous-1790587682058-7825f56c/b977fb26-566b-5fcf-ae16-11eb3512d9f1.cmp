@@ -1,0 +1,6 @@
+{
+  "id": "b977fb26-566b-5fcf-ae16-11eb3512d9f1",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/automation/locales/en/translation.json",
+  "type": "service",
+  "relationships": {}
+}

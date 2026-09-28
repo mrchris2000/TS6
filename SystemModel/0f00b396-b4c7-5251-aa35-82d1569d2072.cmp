@@ -1,0 +1,6 @@
+{
+  "id": "0f00b396-b4c7-5251-aa35-82d1569d2072",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Trial/.devopsconfig/contents/devcontainers/devcontainer-realtimecpp/.devcontainer/extensions",
+  "type": "service",
+  "relationships": {}
+}

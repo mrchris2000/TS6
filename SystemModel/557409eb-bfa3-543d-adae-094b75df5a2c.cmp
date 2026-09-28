@@ -1,0 +1,6 @@
+{
+  "id": "557409eb-bfa3-543d-adae-094b75df5a2c",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/login-status-iframe.html/init",
+  "type": "service",
+  "relationships": {}
+}

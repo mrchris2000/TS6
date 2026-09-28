@@ -1,0 +1,6 @@
+{
+  "id": "e9b46eb9-08e4-56f5-a8e1-76f236cd0323",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/tenant/rest/teamspaceroles/search/findByUser",
+  "type": "service",
+  "relationships": {}
+}

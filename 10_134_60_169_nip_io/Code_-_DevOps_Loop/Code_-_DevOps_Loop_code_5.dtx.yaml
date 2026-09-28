@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=https://www.hcl-software.com/schema/devops/test/Script/2026/09
+note: "Generated test for Code - DevOps Loop (role: code)"
+configuration:
+  vars:
+    APP_10_134_60_169_nip_io_URL: https://10.134.60.169.nip.io
+    username: stuart@hcl.com
+    password: Gr33nhat!
+    Username: stuart@hcl.com
+    Password: Gr33nhat!
+steps:
+  - open:
+      note: Navigate to Code - DevOps Loop
+      url: '${APP_10_134_60_169_nip_io_URL}/code/devcontainerpage?devcontainer=Go&ref=main&teamspace=Team1'
+  - with:
+      note: Code - DevOps Loop
+      steps:
+        - click:
+            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - label:
+                      - val: logoAlt
+        - click:
+            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
+            object: html.a
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Code home page
+        - click:
+            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Dev Container : Go
+        - verify:
+            object: html.h1
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Loop: Code Dev Container : Go Setting Up The Environment...
