@@ -1,0 +1,6 @@
+{
+  "id": "76588d67-ab60-594f-a596-241d18298990",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/automation/config.json",
+  "type": "service",
+  "relationships": {}
+}
