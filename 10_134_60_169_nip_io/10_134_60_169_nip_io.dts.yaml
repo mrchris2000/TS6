@@ -6,9 +6,5 @@ configuration:
   vars:
     APP_10_134_60_169_nip_io_URL: https://10.134.60.169.nip.io
 tests:
+  - Sign_in_to_devops-automation/Sign_in_to_devops-automation_anonymous.dtx.yaml
   - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code.dtx.yaml
-  - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code_2.dtx.yaml
-  - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code_3.dtx.yaml
-  - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code_4.dtx.yaml
-  - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code_5.dtx.yaml
-  - Code_-_DevOps_Loop/Code_-_DevOps_Loop_code_6.dtx.yaml

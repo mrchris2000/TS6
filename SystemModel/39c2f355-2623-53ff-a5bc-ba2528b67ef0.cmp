@@ -1,0 +1,13 @@
+{
+  "id": "39c2f355-2623-53ff-a5bc-ba2528b67ef0",
+  "name": "Sign in to devops-automation [anonymous]",
+  "type": "ui",
+  "parent": "857800ab-f03d-5fc2-a614-2cff524f866d",
+  "relationships": {
+    "depends-on": [
+      "76588d67-ab60-594f-a596-241d18298990",
+      "b5444176-8ad4-5910-abb2-414b67ceb522",
+      "b977fb26-566b-5fcf-ae16-11eb3512d9f1"
+    ]
+  }
+}

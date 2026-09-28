@@ -1,0 +1,6 @@
+{
+  "id": "b24fd32d-8c15-52c6-a08d-9824beb7c0ae",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/loop/rest/spaces/0a652fdd-70e5-44f6-8b30-6e8241ba853e/loops",
+  "type": "service",
+  "relationships": {}
+}

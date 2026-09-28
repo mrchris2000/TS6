@@ -1,0 +1,6 @@
+{
+  "id": "d0d2804c-658b-5939-ad02-5ebe56a4843f",
+  "name": "HTTP endpoint: POST https://10.134.60.169.nip.io/tenant/rest/users/registeruser",
+  "type": "service",
+  "relationships": {}
+}

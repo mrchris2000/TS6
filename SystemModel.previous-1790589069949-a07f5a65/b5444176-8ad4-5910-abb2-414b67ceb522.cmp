@@ -1,0 +1,6 @@
+{
+  "id": "b5444176-8ad4-5910-abb2-414b67ceb522",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/code/api/env",
+  "type": "service",
+  "relationships": {}
+}
