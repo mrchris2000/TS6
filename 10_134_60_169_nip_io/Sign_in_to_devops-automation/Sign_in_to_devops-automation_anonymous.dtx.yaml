@@ -10,12 +10,12 @@ configuration:
 steps:
   - open:
       note: Navigate to Sign in to devops-automation
-      url: '${APP_10_134_60_169_nip_io_URL}/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df'
+      url: '${APP_10_134_60_169_nip_io_URL}/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=REDACTED'
   - with:
       note: Sign in to devops-automation
       steps:
         - type:
-            shot: ../705ab6bf386cf1533fc08584.dti.jpeg#21
+            shot: ../08bbf2c1f516bea3ee61587e.dti.jpeg#21
             object: html.inputtext
             identifiers:
               - properties:
@@ -23,7 +23,7 @@ steps:
                       - val: Username
             value: '${Username}'
         - type:
-            shot: ../705ab6bf386cf1533fc08584.dti.jpeg#25
+            shot: ../08bbf2c1f516bea3ee61587e.dti.jpeg#25
             object: html.inputpassword
             identifiers:
               - properties:
@@ -31,7 +31,7 @@ steps:
                       - val: Password
             value: '${Password}'
         - click:
-            shot: ../705ab6bf386cf1533fc08584.dti.jpeg#34
+            shot: ../08bbf2c1f516bea3ee61587e.dti.jpeg#34
             object: html.inputsubmit
             identifiers:
               - properties:

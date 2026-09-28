@@ -15,21 +15,57 @@ steps:
       note: Code - DevOps Loop
       steps:
         - click:
-            shot: ../bc05e9aa1d051a28c2cf540e.dti.jpeg#13
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - label:
                       - val: logoAlt
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: DevOps Code home page
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Expand sidebar
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: T
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: All
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Running Dev Containers
+        - click:
+            shot: ../1a33b7fc2e5f8ab183a37af5.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Other Dev Containers
         - verify:
             object: html.h1
             identifiers:
               - properties:
                   - content:
                       - val: DevOps Loop
-        - verify:
-            object: html.p
-            identifiers:
-              - properties:
-                  - content:
-                      - val: Fetching Running Dev Containers...

@@ -1,0 +1,6 @@
+{
+  "id": "3dd4db21-3ab5-591c-af20-2d5e099dbfc2",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/rest/state",
+  "type": "service",
+  "relationships": {}
+}

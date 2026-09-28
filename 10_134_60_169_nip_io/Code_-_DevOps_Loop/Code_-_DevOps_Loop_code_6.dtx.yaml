@@ -10,34 +10,62 @@ configuration:
 steps:
   - open:
       note: Navigate to Code - DevOps Loop
-      url: '${APP_10_134_60_169_nip_io_URL}/code/devcontainerpage?devcontainer=Cpp&ref=main&teamspace=Team1'
+      url: '${APP_10_134_60_169_nip_io_URL}/code/'
   - with:
       note: Code - DevOps Loop
       steps:
         - click:
-            shot: ../38c905d19117ceb4630c42a1.dti.jpeg#13
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - label:
                       - val: logoAlt
         - click:
-            shot: ../38c905d19117ceb4630c42a1.dti.jpeg#13
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - content:
                       - val: DevOps Code home page
         - click:
-            shot: ../38c905d19117ceb4630c42a1.dti.jpeg#13
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - content:
-                      - val: Dev Container : Cpp
+                      - val: T Team1
+        - click:
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Collapse sidebar
+        - click:
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
+            object: html.select
+            identifiers:
+              - properties:
+                  - label:
+                      - val: main
+        - click:
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Running Dev Containers
+        - click:
+            shot: ../b85cb7577b3ea70eaa8a6adc.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Other Dev Containers
         - verify:
             object: html.h1
             identifiers:
               - properties:
                   - content:
-                      - val: DevOps Loop: Code Dev Container : Cpp
+                      - val: DevOps Loop

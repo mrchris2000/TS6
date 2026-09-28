@@ -1,0 +1,6 @@
+{
+  "id": "1c708db8-f150-5e2b-a0c4-a8bfd9b468eb",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Team1/.devopsconfig/contents/devcontainers/devcontainer-cloud-native/.devcontainer/devcontainer.json",
+  "type": "service",
+  "relationships": {}
+}

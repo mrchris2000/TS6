@@ -1,0 +1,6 @@
+{
+  "id": "aad4741a-2c32-5cf7-ac7a-2444ea00fa06",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/static/8.2.2.3.1192585/lib/mxgraph/resources/graph.txt",
+  "type": "service",
+  "relationships": {}
+}

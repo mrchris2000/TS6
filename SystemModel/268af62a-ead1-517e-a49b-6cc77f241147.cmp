@@ -1,0 +1,6 @@
+{
+  "id": "268af62a-ead1-517e-a49b-6cc77f241147",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/rest/navigation",
+  "type": "service",
+  "relationships": {}
+}

@@ -1,0 +1,6 @@
+{
+  "id": "00c991d8-a868-5150-a837-5a241194b30e",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Team1/.devopsconfig/tags",
+  "type": "service",
+  "relationships": {}
+}

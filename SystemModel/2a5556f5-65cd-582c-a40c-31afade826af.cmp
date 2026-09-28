@@ -1,0 +1,6 @@
+{
+  "id": "2a5556f5-65cd-582c-a40c-31afade826af",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/rest/workflow/currentActivity",
+  "type": "service",
+  "relationships": {}
+}

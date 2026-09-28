@@ -15,36 +15,43 @@ steps:
       note: Code - DevOps Loop
       steps:
         - click:
-            shot: ../f5e619376fc7bde7f1943db7.dti.jpeg#13
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - label:
                       - val: logoAlt
         - click:
-            shot: ../f5e619376fc7bde7f1943db7.dti.jpeg#13
-            object: html.a
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
+            object: html.button
             identifiers:
               - properties:
                   - content:
-                      - val: DevOps Code home page
+                      - val: T
         - click:
-            shot: ../f5e619376fc7bde7f1943db7.dti.jpeg#13
-            object: html.combobox
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Expand sidebar
+        - click:
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
+            object: html.select
             identifiers:
               - properties:
                   - label:
                       - val: main
         - click:
-            shot: ../f5e619376fc7bde7f1943db7.dti.jpeg#13
-            object: html.tab
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
+            object: html.button
             identifiers:
               - properties:
                   - content:
                       - val: Running Dev Containers
         - click:
-            shot: ../f5e619376fc7bde7f1943db7.dti.jpeg#13
-            object: html.tab
+            shot: ../eeaa1423f537f2712da6e242.dti.jpeg#13
+            object: html.button
             identifiers:
               - properties:
                   - content:

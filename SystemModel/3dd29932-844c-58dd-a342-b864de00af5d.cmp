@@ -1,0 +1,6 @@
+{
+  "id": "3dd29932-844c-58dd-a342-b864de00af5d",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/control/api/v1/repos/Trial/.devopsconfig/contents/devcontainers/devcontainer-watsonx/.devcontainer/devcontainer.json",
+  "type": "service",
+  "relationships": {}
+}

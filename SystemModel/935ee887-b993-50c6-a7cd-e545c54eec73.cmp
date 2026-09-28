@@ -1,0 +1,6 @@
+{
+  "id": "935ee887-b993-50c6-a7cd-e545c54eec73",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/rest/state/globalMessages",
+  "type": "service",
+  "relationships": {}
+}

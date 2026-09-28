@@ -23,7 +23,7 @@ steps:
                       - val: logoAlt
         - click:
             shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
-            object: html.button
+            object: html.a
             identifiers:
               - properties:
                   - content:
@@ -48,7 +48,7 @@ steps:
             identifiers:
               - properties:
                   - label:
-                      - val: main
+                      - val: Branch
         - click:
             shot: ../c2bf552ddbc2ca1f0320ca0e.dti.jpeg#13
             object: html.tab

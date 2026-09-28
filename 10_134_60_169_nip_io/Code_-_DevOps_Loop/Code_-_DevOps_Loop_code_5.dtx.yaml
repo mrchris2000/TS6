@@ -10,34 +10,62 @@ configuration:
 steps:
   - open:
       note: Navigate to Code - DevOps Loop
-      url: '${APP_10_134_60_169_nip_io_URL}/code/devcontainerpage?devcontainer=Go&ref=main&teamspace=Team1'
+      url: '${APP_10_134_60_169_nip_io_URL}/code/'
   - with:
       note: Code - DevOps Loop
       steps:
         - click:
-            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - label:
                       - val: logoAlt
         - click:
-            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
-            object: html.a
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
+            object: html.button
             identifiers:
               - properties:
                   - content:
                       - val: DevOps Code home page
         - click:
-            shot: ../4f6c661ac6466cabe1fdf424.dti.jpeg#13
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
             object: html.button
             identifiers:
               - properties:
                   - content:
-                      - val: Dev Container : Go
+                      - val: Expand sidebar
+        - click:
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
+            object: html.select
+            identifiers:
+              - properties:
+                  - label:
+                      - val: main
+        - click:
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Running Dev Containers
+        - click:
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
+            object: html.button
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Other Dev Containers
+        - click:
+            shot: ../429bd278462aa64755d5f871.dti.jpeg#13
+            object: html.a
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Launch
         - verify:
             object: html.h1
             identifiers:
               - properties:
                   - content:
-                      - val: DevOps Loop: Code Dev Container : Go Setting Up The Environment...
+                      - val: DevOps Loop

@@ -1,0 +1,6 @@
+{
+  "id": "6fe60da0-d611-5fa1-a7f0-53f4e0e0a437",
+  "name": "HTTP endpoint: POST https://10.134.60.169.nip.io/code/api/devcontainerMetrics",
+  "type": "service",
+  "relationships": {}
+}

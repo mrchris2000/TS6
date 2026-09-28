@@ -10,31 +10,45 @@ configuration:
 steps:
   - open:
       note: Navigate to Code - DevOps Loop
-      url: '${APP_10_134_60_169_nip_io_URL}/code/devcontainerpage?devcontainer=Data+Science+%26+ML&ref=main&teamspace=Team1'
+      url: '${APP_10_134_60_169_nip_io_URL}/code/'
   - with:
       note: Code - DevOps Loop
       steps:
         - click:
-            shot: ../575e07074259b262358a7a31.dti.jpeg#13
+            shot: ../fc859a205f27a7bf3974a003.dti.jpeg#14
             object: html.button
             identifiers:
               - properties:
                   - label:
                       - val: logoAlt
         - click:
-            shot: ../575e07074259b262358a7a31.dti.jpeg#13
+            shot: ../fc859a205f27a7bf3974a003.dti.jpeg#14
             object: html.button
             identifiers:
               - properties:
-                  - content:
-                      - val: DevOps Code home page
+                  - label:
+                      - val: T
         - click:
-            shot: ../575e07074259b262358a7a31.dti.jpeg#13
-            object: html.button
+            shot: ../fc859a205f27a7bf3974a003.dti.jpeg#14
+            object: html.combobox
+            identifiers:
+              - properties:
+                  - label:
+                      - val: main
+        - click:
+            shot: ../fc859a205f27a7bf3974a003.dti.jpeg#14
+            object: html.tab
             identifiers:
               - properties:
                   - content:
-                      - val: Dev Container : Data Science & ML
+                      - val: Running Dev Containers
+        - click:
+            shot: ../fc859a205f27a7bf3974a003.dti.jpeg#14
+            object: html.a
+            identifiers:
+              - properties:
+                  - content:
+                      - val: Launch
         - verify:
             object: html.h1
             identifiers:

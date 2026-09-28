@@ -1,0 +1,23 @@
+{
+  "id": "6316e57d-2168-5118-aa6f-f96b05e95aa3",
+  "name": "Cloud Native & DevOps / Data Science & ML / .NET / Full-Stack Web / Go / Mobile Development / Node / Python / RealTimeC++ / Watsonx / Starter [code]",
+  "type": "ui",
+  "parent": "3d9d16b1-5775-5040-a795-194f8ac8e772",
+  "relationships": {
+    "depends-on": [
+      "0a9093bb-acd7-5300-ae87-136580fdf421",
+      "268af62a-ead1-517e-a49b-6cc77f241147",
+      "2a5556f5-65cd-582c-a40c-31afade826af",
+      "3dd4db21-3ab5-591c-af20-2d5e099dbfc2",
+      "57bf0996-9de1-5ec4-a48f-d155f09bb46b",
+      "6fe60da0-d611-5fa1-a7f0-53f4e0e0a437",
+      "74d02bf6-259f-5dd3-addd-2e5584b6b145",
+      "8acd32f3-135e-5ac9-a01a-a90bcf9c50ba",
+      "935ee887-b993-50c6-a7cd-e545c54eec73",
+      "a2cd18d8-9dbd-5233-a904-2e7666d2b1c0",
+      "aad4741a-2c32-5cf7-ac7a-2444ea00fa06",
+      "b5ac2a38-e483-5a5d-abb1-e3f69f133c77",
+      "dbd2fcb4-9708-5457-a85a-ec24f595ac2e"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "id": "b5ac2a38-e483-5a5d-abb1-e3f69f133c77",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/static/8.2.2.3.1192585/conf/locale/en_GB.json",
+  "type": "service",
+  "relationships": {}
+}

@@ -1,0 +1,6 @@
+{
+  "id": "57bf0996-9de1-5ec4-a48f-d155f09bb46b",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/deploy/static/8.2.2.3.1192585/js/deploy/views/dashboard/currentActivity.html",
+  "type": "service",
+  "relationships": {}
+}
