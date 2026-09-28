@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "signature": "0f8a44b4f2bbe3a1311b540e",
+  "signature": "308698f829d7da970c9e3882",
   "startUrl": "https://10.134.60.169.nip.io/code",
   "states": [
     {
-      "id": "37102e8f566a52d891b1b64b",
+      "id": "1b85801159bea4178005e36c",
       "url": "https://10.134.60.169.nip.io/automation/embed?path=%2Fcode%2F",
       "title": "DevOps Loop",
-      "role": "anonymous",
-      "tenant": "parabank-demo",
+      "role": "code",
+      "tenant": "devops-loop",
       "text": "",
       "heading": "",
       "actions": [],
@@ -20,7 +20,22 @@
           "status": 200
         },
         {
+          "url": "https://10.134.60.169.nip.io/tenant/rest/users/registeruser",
+          "method": "POST",
+          "status": 201
+        },
+        {
+          "url": "https://10.134.60.169.nip.io/code/api/env",
+          "method": "GET",
+          "status": 200
+        },
+        {
           "url": "https://10.134.60.169.nip.io/automation/config.json",
+          "method": "GET",
+          "status": 200
+        },
+        {
+          "url": "https://10.134.60.169.nip.io/automation/locales/en/translation.json?1790587134258=",
           "method": "GET",
           "status": 200
         }
@@ -33,15 +48,9 @@
   "frontier": [],
   "completed": [],
   "initialized": [
-    "anonymous"
+    "code"
   ],
   "iterations": 0,
-  "status": "partial",
-  "blockers": [
-    {
-      "role": "code",
-      "outcome": "authentication_failed",
-      "detail": "TimeoutError: locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\\'submit\\']')\u001b[22m\n"
-    }
-  ]
+  "status": "complete",
+  "blockers": []
 }
