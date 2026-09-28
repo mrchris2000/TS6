@@ -1,0 +1,12 @@
+{
+  "id": "744ba40c-6167-51be-a5e4-d4deca52d1cd",
+  "name": "DevOps Loop [anonymous]",
+  "type": "ui",
+  "parent": "651da088-0c04-58f7-a5a3-4a80b8441132",
+  "relationships": {
+    "depends-on": [
+      "76588d67-ab60-594f-a596-241d18298990",
+      "b5444176-8ad4-5910-abb2-414b67ceb522"
+    ]
+  }
+}

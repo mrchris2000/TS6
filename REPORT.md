@@ -18,7 +18,7 @@ Call log:
 
 ## States
 
-- DevOps Loop (anonymous): https://10.134.60.169.nip.io/automation/embed?path=%2Fcode%2F — state 37102e8f566a52d891b1b64b — The page titled 'DevOps Loop' appears to be empty, with no content or controls present.
+- DevOps Loop (anonymous): https://10.134.60.169.nip.io/automation/embed?path=%2Fcode%2F — state 37102e8f566a52d891b1b64b — The page titled 'DevOps Loop' appears to be empty, with no content or controls observed.
 
 ## Files
 
