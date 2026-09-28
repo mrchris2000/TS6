@@ -1,0 +1,6 @@
+{
+  "id": "30bae556-17f0-5c82-a3e0-f1584f400eda",
+  "name": "HTTP endpoint: GET https://10.134.60.169.nip.io/code/api/teamspaces",
+  "type": "service",
+  "relationships": {}
+}

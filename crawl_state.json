@@ -4,8 +4,8 @@
   "startUrl": "https://10.134.60.169.nip.io/code",
   "states": [
     {
-      "id": "76e21df6c85ec06f307462f0",
-      "url": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=dab136a26ad340f8a1ec3889af9a3cbb",
+      "id": "705ab6bf386cf1533fc08584",
+      "url": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df",
       "title": "Sign in to devops-automation",
       "role": "anonymous",
       "tenant": "devops-loop",
@@ -22,7 +22,7 @@
           "formMethod": "POST",
           "id": "6d06b2d1cb7a906d8af04173",
           "frame": [],
-          "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=dab136a26ad340f8a1ec3889af9a3cbb",
+          "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df",
           "risk": "read"
         },
         {
@@ -52,7 +52,7 @@
           "formMethod": "POST",
           "id": "66a609639b6ae7ea9363d060",
           "frame": [],
-          "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=dab136a26ad340f8a1ec3889af9a3cbb",
+          "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df",
           "risk": "unknown"
         }
       ],
@@ -69,7 +69,7 @@
           "status": 200
         },
         {
-          "url": "https://10.134.60.169.nip.io/automation/locales/en/translation.json?1790589025394=",
+          "url": "https://10.134.60.169.nip.io/automation/locales/en/translation.json?1790589152959=",
           "method": "GET",
           "status": 200
         }
@@ -172,13 +172,13 @@
       "validation": [],
       "endpoints": [
         {
-          "url": "https://10.134.60.169.nip.io/code/api/env",
-          "method": "GET",
+          "url": "https://10.134.60.169.nip.io/code/api/getRunningNonIdeContainers",
+          "method": "POST",
           "status": 200
         },
         {
-          "url": "https://10.134.60.169.nip.io/tenant/rest/teamspaceroles/search/findByUser?user=https%3A%2F%2F10.134.60.169.nip.io%2Ftenant%2Frest%2Fusers%2Fd9e4e58d-896a-4dbb-99fc-2d1a15cc4b59",
-          "method": "GET",
+          "url": "https://10.134.60.169.nip.io/code/api/getRunningContainers",
+          "method": "POST",
           "status": 200
         },
         {
@@ -192,7 +192,7 @@
           "status": 200
         },
         {
-          "url": "https://10.134.60.169.nip.io/automation/locales/en/translation.json?1790589043365=",
+          "url": "https://10.134.60.169.nip.io/automation/locales/en/translation.json?1790589174016=",
           "method": "GET",
           "status": 200
         },
@@ -232,22 +232,22 @@
           "status": 200
         },
         {
+          "url": "https://10.134.60.169.nip.io/code/api/env",
+          "method": "GET",
+          "status": 200
+        },
+        {
           "url": "https://10.134.60.169.nip.io/tenant/rest/teamspaces/fdc239c9-c6a8-4b3e-a21d-f0248a340fd2/tasks",
           "method": "GET",
           "status": 200
         },
         {
-          "url": "https://10.134.60.169.nip.io/code/api/env",
-          "method": "GET",
-          "status": 200
-        },
-        {
-          "url": "https://10.134.60.169.nip.io/code/api/env",
-          "method": "GET",
-          "status": 200
-        },
-        {
           "url": "https://10.134.60.169.nip.io/loop/rest/spaces/0a652fdd-70e5-44f6-8b30-6e8241ba853e/loops?showDisabled=true&size=999",
+          "method": "GET",
+          "status": 200
+        },
+        {
+          "url": "https://10.134.60.169.nip.io/code/api/env",
           "method": "GET",
           "status": 200
         },
@@ -267,13 +267,18 @@
           "status": 200
         },
         {
+          "url": "https://10.134.60.169.nip.io/code/api/getRunningContainers",
+          "method": "POST",
+          "status": 200
+        },
+        {
           "url": "https://10.134.60.169.nip.io/code/api/getRunningNonIdeContainers",
           "method": "POST",
           "status": 200
         },
         {
-          "url": "https://10.134.60.169.nip.io/code/api/getRunningContainers",
-          "method": "POST",
+          "url": "https://10.134.60.169.nip.io/code/api/teamspaces",
+          "method": "GET",
           "status": 200
         }
       ],
@@ -283,8 +288,8 @@
   ],
   "transitions": [
     {
-      "id": "8f1ba0728bb25dcaf8e37dee",
-      "source": "76e21df6c85ec06f307462f0",
+      "id": "24e699388ea99ea192eaf97c",
+      "source": "705ab6bf386cf1533fc08584",
       "action": {
         "selector": "html:nth-of-type(1) > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
         "label": "Sign In",
@@ -312,7 +317,7 @@
         "formMethod": "POST",
         "id": "66a609639b6ae7ea9363d060",
         "frame": [],
-        "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=dab136a26ad340f8a1ec3889af9a3cbb",
+        "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df",
         "risk": "unknown"
       },
       "outcome": "policy_blocked",
@@ -321,8 +326,8 @@
       "detail": "Configure this action explicitly to explore it"
     },
     {
-      "id": "a860d95672a94066b4a94251",
-      "source": "76e21df6c85ec06f307462f0",
+      "id": "3808bc17c3b41af360270861",
+      "source": "705ab6bf386cf1533fc08584",
       "action": {
         "selector": "#togglePassword",
         "label": "Show password",
@@ -333,13 +338,13 @@
         "formMethod": "POST",
         "id": "6d06b2d1cb7a906d8af04173",
         "frame": [],
-        "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=dab136a26ad340f8a1ec3889af9a3cbb",
+        "frameUrl": "https://10.134.60.169.nip.io/auth/realms/devops-automation/protocol/openid-connect/auth?client_id=devopsautomation&code_challenge=REDACTED&code_challenge_method=REDACTED&redirect_uri=https%3A%2F%2F10.134.60.169.nip.io%2Fautomation%2Fembed%3Fpath%3D%252Fcode%252F&response_type=code&scope=openid+profile+email+mcp%3Aloop%3Aall+mcp%3Acontrol%3Aall+api%3Asuite%3Aall+api%3Aloop%3Aall+api%3Atenant%3Aall+mcp%3Aplan%3Aall+api%3Aplan%3Aall+api%3Acontrol%3Aall+mcp%3Avelocity%3Aall+api%3Avelocity%3Aall+mcp%3Adeploy%3Aall+api%3Adeploy%3Aall+mcp%3Atest%3Aall+api%3Atest%3Aall+mcp%3Abuild%3Aall+api%3Abuild%3Aall+api%3Acode%3Aall&state=40069edc0c944e588b919b19a3c1b3df",
         "risk": "read"
       },
       "outcome": "no_change",
       "attempts": 1,
       "endpoints": [],
-      "target": "76e21df6c85ec06f307462f0"
+      "target": "705ab6bf386cf1533fc08584"
     },
     {
       "id": "bb3aef8fc63946d82093da11",
@@ -474,8 +479,8 @@
   ],
   "frontier": [],
   "completed": [
-    "anonymous:76e21df6c85ec06f307462f0:66a609639b6ae7ea9363d060",
-    "anonymous:76e21df6c85ec06f307462f0:6d06b2d1cb7a906d8af04173",
+    "anonymous:705ab6bf386cf1533fc08584:66a609639b6ae7ea9363d060",
+    "anonymous:705ab6bf386cf1533fc08584:6d06b2d1cb7a906d8af04173",
     "code:bc05e9aa1d051a28c2cf540e:ff21b38b0af476c6a9612442",
     "code:bc05e9aa1d051a28c2cf540e:d6f77fa07267dd0d6d650b12",
     "code:bc05e9aa1d051a28c2cf540e:85a7c13058cd327abd7e988e",
